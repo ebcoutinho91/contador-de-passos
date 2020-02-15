@@ -1,4 +1,4 @@
 # contador-de-passos
-contador de passos em um array
+Contador de passos em um Array
 
 https://ebcoutinho91.github.io/contador-de-passos/
