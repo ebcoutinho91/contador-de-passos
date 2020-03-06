@@ -1,4 +1,4 @@
 # contador-de-passos
-Contador de passos em um Array
+O projeto tem em vista a pratica de JavaScript.
 
 https://ebcoutinho91.github.io/contador-de-passos/
